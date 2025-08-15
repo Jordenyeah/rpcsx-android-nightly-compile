@@ -10,6 +10,7 @@
 
 > **Warning**: Do not ask for link to games or system files. Piracy is not permitted on the GitHub nor in the Discord.
 
+**THIS ISNT AN OFFICAL COMPILER, THIS IS A FUN HOBBY I DO SOMETIMES**
 
 ## Contributing
 
